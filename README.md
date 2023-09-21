@@ -2,7 +2,7 @@ Hi,
 
 I’m Adrian Mendoza Perez. Currently, I'm a freshman at Stanford University 
 studying computer science. I'm interested in AI and ethics. This summer,
-I'm looking to  develop my skills further through research andinternships. As right now, 
+I'm looking to  develop my skills further through research and internships. As right now, 
 the classes I've took or am taking are:
 
 - Design and Analysis of Algorithms
@@ -14,3 +14,4 @@ the classes I've took or am taking are:
 - Principles of Data Science
 
 You can reach me at adrianmendozaperez@stanford.edu
+Linkedin: https://www.linkedin.com/in/adrian-mendoza-perez-502093208/

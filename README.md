@@ -1,6 +1,6 @@
 Hi, 
 
-I’m Adrian Mendoza Perez. Currently, I'm a freshman at Stanford University 
+I’m Adrian Mendoza Perez. Currently, I'm a sophomore at Stanford University 
 studying computer science. I'm interested in AI and ethics. This summer,
 I'm looking to  develop my skills further through research and internships. As right now, 
 the classes I've took or am taking are:

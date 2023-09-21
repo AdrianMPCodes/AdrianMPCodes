@@ -14,4 +14,5 @@ the classes I've took or am taking are:
 - Principles of Data Science
 
 You can reach me at adrianmendozaperez@stanford.edu
+
 Linkedin: https://www.linkedin.com/in/adrian-mendoza-perez-502093208/

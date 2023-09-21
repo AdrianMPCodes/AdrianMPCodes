@@ -15,4 +15,4 @@ the classes I've took or am taking are:
 
 You can reach me at adrianmendozaperez@stanford.edu
 
-Linkedin: https://www.linkedin.com/in/adrian-mendoza-perez-502093208/
+LinkedIn: https://www.linkedin.com/in/adrian-mendoza-perez-502093208/

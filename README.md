@@ -1,17 +1,22 @@
 Hi, 
 
-I’m Adrian Mendoza Perez. Currently, I'm a sophomore at Stanford University 
-studying computer science. I'm interested in AI and ethics. This summer,
-I'm looking to  develop my skills further through research and internships. As right now, 
-the classes I've took or am taking are:
+I’m Adrian Mendoza Perez. Currently, I'm a junior at Stanford University 
+studying CS and EE. I'm interested in AI and ethics. This summer,
+I'm looking to  develop my skills further through research and internships. As of right now, 
+the classes I've taken or am taking are:
 
-- Design and Analysis of Algorithms
-- Programming Abstractions
-- Discrete Math - Mathematical Foundations of Computing 
-- Enrichment Adventures in Programming Abstractions
-- Computer Organization and Systems 
-- Introduction to Probability for Computer Scientists
-- Principles of Data Science
+- DS & OOP
+- Discrete Math
+- Probability in CS
+- Intro. to Data Science
+- Computer Organization & Systems
+- Algorithms
+- Operating Systems
+- Intro. to EE
+- Circuits I
+- Linear Algebra
+- Natural Language Processing with Deep Learning
+- Social Computing
 
 You can reach me at adrianmendozaperez@stanford.edu
 

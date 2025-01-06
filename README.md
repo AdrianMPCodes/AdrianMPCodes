@@ -17,6 +17,9 @@ the classes I've taken or am taking are:
 - Linear Algebra
 - Natural Language Processing with Deep Learning
 - Social Computing
+- Machine Learning
+- Advanced Matrix Theory
+- Computer Graphics
 
 You can reach me at adrianmendozaperez@stanford.edu
 

@@ -1,7 +1,7 @@
 Hi, 
 
 I’m Adrian Mendoza Perez. Currently, I'm a junior at Stanford University 
-studying CS and EE. A combination of hardware, ML, and data analysis. Current projects:
+studying CS and EE. I'm interested in hardware, ML, and data analysis. Current projects:
 
 - AI PM
 - XR IDE for scene manipulation (If Unity, Blender, and Cursor had a child).

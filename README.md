@@ -7,4 +7,5 @@ studying CS and EE. A combination of hardware, ML, and data analysis. Current pr
 - XR IDE for scene manipulation (If Unity, Blender, and Cursor had a child).
 
 You can reach me at adrianmendozaperez@stanford.edu
+
 LinkedIn: https://www.linkedin.com/in/adrian-mendoza-perez-502093208/
